@@ -44,9 +44,6 @@ const Home = (props) => {
             </div>
           </div>
           <div className="home-container2">
-            <button id="addy2" className="button button-gradient">
-              Copy
-            </button>
             <div className="home-container3">
               <div className="home-container4">
                 <div className="home-container5">
